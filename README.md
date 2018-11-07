@@ -56,6 +56,8 @@ Next, you’ll be asked if you’d like to use the button box. If you are runnin
 
 After the instruction screen loads, it is waiting for the number 5 to start the task. If you’re at the scanner, the scanner should send the number 5 to the script once you start the scan. If you are running this not connected to the scanner, you can press 5 on the keyboard to start the task.
 
+If you need to abort the task, press ctrl+C, followed by ENTER; then type clear screen, and press ENTER again.
+
 
 ### Data Recording
 Data gets saved as a .mat file to an output folder specified in the MSS script. This file contains data fields for 1) key_presses and 2) run_info.
