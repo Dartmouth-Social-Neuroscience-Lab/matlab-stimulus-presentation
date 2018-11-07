@@ -1,0 +1,75 @@
+%type	num	pre	maxTime	totTime	rep	stpEvt	bg	st	bgFile	stFile	hshift	vshift	tag1	condition	block	load	correct answer	tag6	tag7	tag8
+s	1	0	10	10	1	n	t	t	+	relax for 10 seconds	0	0	1	0	1	1		1	1	1
+r	4	0	4.1604	4.1604	1	n	t	t	+	+	0	0	1	1	1	2		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide006.jpg	0	0	1	1	1	2		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	1	2		1	1	1
+r	1	0	3	3	1	1234	t	p	+	claire.jpg	0	0	1	1	1	2	1	1	1	1
+r	4	0	1.5493	1.5493	1	n	t	t	+	+	0	0	1	1	1	4		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide043.jpg	0	0	1	1	1	4		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	1	4		1	1	1
+r	1	0	3	3	1	1234	t	p	+	claire.jpg	0	0	1	1	1	4	2	1	1	1
+r	4	0	4.0287	4.0287	1	n	t	t	+	+	0	0	1	1	1	4		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide037.jpg	0	0	1	1	1	4		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	1	4		1	1	1
+r	1	0	3	3	1	1234	t	p	+	piper.jpg	0	0	1	1	1	4	2	1	1	1
+r	4	0	3.1563	3.1563	1	n	t	t	+	+	0	0	1	1	1	2		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide010.jpg	0	0	1	1	1	2		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	1	2		1	1	1
+r	1	0	3	3	1	1234	t	p	+	tiffany.jpg	0	0	1	1	1	2	1	1	1	1
+r	4	0	2.6246	2.6246	1	n	t	t	+	+	0	0	1	1	1	4		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide050.jpg	0	0	1	1	1	4		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	1	4		1	1	1
+r	1	0	3	3	1	1234	t	p	+	claire.jpg	0	0	1	1	1	4	3	1	1	1
+r	4	0	1.6858	1.6858	1	n	t	t	+	+	0	0	1	1	1	2		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide008.jpg	0	0	1	1	1	2		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	1	2		1	1	1
+r	1	0	3	3	1	1234	t	p	+	tiffany.jpg	0	0	1	1	1	2	1	1	1	1
+r	4	0	2.9351	2.9351	1	n	t	t	+	+	0	0	1	2	1	2		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide057.jpg	0	0	1	2	1	2		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	2	1	2		1	1	1
+r	1	0	3	3	1	1234	t	p	+	piper_alpha.jpg	0	0	1	2	1	2	2	1	1	1
+r	4	0	2.26	2.26	1	n	t	t	+	+	0	0	1	2	1	2		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide071.jpg	0	0	1	2	1	2		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	2	1	2		1	1	1
+r	1	0	3	3	1	1234	t	p	+	tiffany_alpha.jpg	0	0	1	2	1	2	1	1	1	1
+r	4	0	3.7719	3.7719	1	n	t	t	+	+	0	0	1	2	1	4		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide098.jpg	0	0	1	2	1	4		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	2	1	4		1	1	1
+r	1	0	3	3	1	1234	t	p	+	larry_alpha.jpg	0	0	1	2	1	4	2	1	1	1
+r	4	0	3.0498	3.0498	1	n	t	t	+	+	0	0	1	2	1	2		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide063.jpg	0	0	1	2	1	2		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	2	1	2		1	1	1
+r	1	0	3	3	1	1234	t	p	+	nicky_alpha.jpg	0	0	1	2	1	2	2	1	1	1
+r	4	0	1.7758	1.7758	1	n	t	t	+	+	0	0	1	2	1	4		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide095.jpg	0	0	1	2	1	4		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	2	1	4		1	1	1
+r	1	0	3	3	1	1234	t	p	+	claire_alpha.jpg	0	0	1	2	1	4	2	1	1	1
+r	4	0	2.1448	2.1448	1	n	t	t	+	+	0	0	1	2	1	4		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide096.jpg	0	0	1	2	1	4		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	2	1	4		1	1	1
+r	1	0	3	3	1	1234	t	p	+	claire_alpha.jpg	0	0	1	2	1	4	4	1	1	1
+r	4	0	4.4706	4.4706	1	n	t	t	+	+	0	0	1	1	2	4		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide052.jpg	0	0	1	1	2	4		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	2	4		1	1	1
+r	1	0	3	3	1	1234	t	p	+	piper.jpg	0	0	1	1	2	4	3	1	1	1
+r	4	0	2.5949	2.5949	1	n	t	t	+	+	0	0	1	1	2	2		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide014.jpg	0	0	1	1	2	2		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	2	2		1	1	1
+r	1	0	3	3	1	1234	t	p	+	claire.jpg	0	0	1	1	2	2	4	1	1	1
+r	4	0	3.7834	3.7834	1	n	t	t	+	+	0	0	1	1	2	4		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide047.jpg	0	0	1	1	2	4		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	2	4		1	1	1
+r	1	0	3	3	1	1234	t	p	+	claire.jpg	0	0	1	1	2	4	3	1	1	1
+r	4	0	2.4594	2.4594	1	n	t	t	+	+	0	0	1	1	2	4		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide044.jpg	0	0	1	1	2	4		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	2	4		1	1	1
+r	1	0	3	3	1	1234	t	p	+	claire.jpg	0	0	1	1	2	4	3	1	1	1
+r	4	0	2.6314	2.6314	1	n	t	t	+	+	0	0	1	1	2	2		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide013.jpg	0	0	1	1	2	2		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	2	2		1	1	1
+r	1	0	3	3	1	1234	t	p	+	piper.jpg	0	0	1	1	2	2	1	1	1	1
+r	4	0	3.7831	3.7831	1	n	t	t	+	+	0	0	1	1	2	2		1	1	1
+r	1	0	4	4	1	n	t	p	+	Slide007.jpg	0	0	1	1	2	2		1	1	1
+r	1	0	4	4	1	n	t	t	+	+	0	0	1	1	2	2		1	1	1
+r	1	0	3	3	1	1234	t	p	+	claire.jpg	0	0	1	1	2	2	4	1	1	1
+s	1	0	10	10	1	n	t	t	rest for 10 seconds	rest for 10 seconds	0	0	1	0	0	0		1	1	1
