@@ -32,7 +32,7 @@ PRINT_OUTPUT = 1; %Results will always print to screen, PRINT_OUTPUT determines 
 %For scanning, this variable 'manual' should equal 0
 
 %Button box info
-portName = '/dev/tty.USA19H141P1.1'; % set this to the name of the port connected to your button box
+portName = '/dev/tty.KeySerial1'; % set this to the name of the port connected to your button box
 baudRate = 115200; % set this to your scanner's baudrate
 
 %END USER INPUT%
